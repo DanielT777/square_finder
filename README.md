@@ -16,6 +16,7 @@ If they are still several solutions, choose the square to the left.
 ## Usage
 
 ./bsq -h
+
 ./bsq [map]
 
 ## Example
