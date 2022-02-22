@@ -5,7 +5,7 @@
 ## makefile lib
 ##
 
-CFLAGS	=  	-Wno-nullability-completeness
+CFLAGS	=  	-g3
 
 SRC 	=	$(shell find . -name '*.c')
 
