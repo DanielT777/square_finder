@@ -11,7 +11,7 @@ SRC 	=	$(shell find . -name '*.c')
 
 OBJ 	=	$(SRC:.c=.o)
 
-NAME	= 	navy
+NAME	= 	bsq
 
 all:	$(NAME)
 
