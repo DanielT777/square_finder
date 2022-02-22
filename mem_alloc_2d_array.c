@@ -59,7 +59,6 @@ void fillsecond(char **mymap, int **mapint, int nb_rows, int nb_cols)
     while (j < nb_cols) {
         if (nb_rows == 1) {
             printmyoneline(mymap, nb_rows, nb_cols);
-            return (0);
         }
         if (mymap[i][j] == 'o')
             mapint[i][j] = '0';
